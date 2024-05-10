@@ -1,3 +1,4 @@
 # -web-project
-this is my first git repository.
-auther : hirishma
+this is my first Git Repository.
+<br>
+Auther : hirishma
